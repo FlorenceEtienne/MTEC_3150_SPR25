@@ -173,5 +173,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SpeedX: 5
   SpeedY: 5
-  InputAxisNameVert: 
-  InputAxisNameHori: 
+  InputAxisNameVert: PlayerMoveVert
+  InputAxisNameHori: PlayerMoveHori
