@@ -171,7 +171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb5085e41a6194d4794a9889f14ca7c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpeedX: 5
-  SpeedY: 5
+  SpdX: 1
+  SpdY: 1
   InputAxisNameVert: PlayerMoveVert
   InputAxisNameHori: PlayerMoveHori
